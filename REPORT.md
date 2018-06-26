@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Thea Van Kessel
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: No unresolved issues.
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: The program successfully prints "hello, world"
 
 ###
